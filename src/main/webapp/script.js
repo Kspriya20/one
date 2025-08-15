@@ -4,7 +4,7 @@ const products = {
         {
             id: 'm1',
             title: 'iPhone 15 Pro',
-            price: 134900,
+            price: 104900,
             image: 'https://m.media-amazon.com/images/I/81Os1SDWpcL._SL1500_.jpg'
         },
         {
